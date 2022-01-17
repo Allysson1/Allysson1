@@ -1,7 +1,14 @@
-### Hi there 👋
+## Oi! Eu sou o Allysson
+
+- 🌱 Estudando para me tornar um Full Stack
+
+<div>
+  <a href="https://github.com/Allysson1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allysson1&theme=dracula&show_icons=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allysson1&layout=compact&theme=dracula&show">
+  </div>
 
 <!--
-**Allysson1/Allysson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
