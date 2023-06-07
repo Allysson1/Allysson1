@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Allysson
 
-- 🌱 Estudando ,
+- 🌱 Estudando
 
 <div>
   <a href="https://github.com/Allysson1">
