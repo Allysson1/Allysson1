@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Allysson
 
-- 🌱 Estudando para me tornar um Full Stack
+- 🌱 Estudando ,
 
 <div>
   <a href="https://github.com/Allysson1">
